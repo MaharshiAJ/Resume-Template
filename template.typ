@@ -1,3 +1,6 @@
+#set text(font: "Arial", lang: "en")
+#set page(paper: "us-letter")
+
 #let header(
   name: str,
   email: str,
