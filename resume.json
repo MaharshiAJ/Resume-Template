@@ -1,0 +1,40 @@
+{
+    "name": "John Doe",
+    "email": "John.Doe@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/johndoe",
+    "education": {
+        "Some Gradute School": {
+            "degree": "Master of Science",
+            "major": "Computer Science",
+            "graduation": "May 2024",
+            "location": "Somewhere, USA",
+            "gpa": "4.0"
+        },
+        "Some Undergraduate School": {
+            "degree": "Bachelor of Science",
+            "major": "Computer Science",
+            "graduation": "May 2021",
+            "location": "Somewhere, USA",
+            "gpa": "4.0"
+        }
+    },
+    "experience": {
+        "Some Company": {
+            "title": "Software Engineer",
+            "start": "October 2023",
+            "end": "Present",
+            "location": "Somewhere, USA",
+            "description": [
+                "Did some stuff",
+                "Did some other stuff",
+                "And some more stuff"
+            ]
+        }
+    },
+    "skills": {
+        "Programming Languages": ["Typst", "Python", "Rust"],
+        "Front End Development": ["React"],
+        "Back End Development": ["Django", "Flask"],
+        "Database Management": ["Postgres", "MySQL"]
+    }
+}
